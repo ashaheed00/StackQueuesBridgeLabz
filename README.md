@@ -1,3 +1,3 @@
 # Stack and Queues BridgeLabz
-## Version UC3
-#### Queue created using LinkedList
+## Version UC4
+#### peek first element and remove 
