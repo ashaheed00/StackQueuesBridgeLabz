@@ -1,3 +1,3 @@
 # Stack and Queues BridgeLabz
-## Version UC1
-#### Create Stack using LinkedList and add push method
+## Version UC2
+#### Stack pop and peek method

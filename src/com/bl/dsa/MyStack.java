@@ -12,6 +12,16 @@ public class MyStack<K> {
 		myLinkedList.add(newNode);
 	}
 
+	/* shows and removes the last element added */
+	public INode<K> pop() {
+		return myLinkedList.pop();
+	}
+
+	/* peek method, shows the last element added */
+	public INode<K> peek() {
+		return myLinkedList.peek();
+	}
+
 	/* Utility: Prints the stack */
 	public void printStack() {
 		myLinkedList.print();

@@ -60,6 +60,11 @@ public class MyLinkedList<K> {
 		return tempNode;
 	}
 
+	/* pop, removes from top */
+	public INode<K> peek() {
+		return head;
+	}
+
 	/* search by specified key */
 	public INode<K> search(K key) {
 		INode<K> tempNode = head;
